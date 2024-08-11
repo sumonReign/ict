@@ -8,7 +8,7 @@ function binarySearch(arr, target) {
         else first = mid + 1
         
     }
-    return -1;
+    return ;
 }
 
 const arry = [2,4,5,6,7,8,9]
